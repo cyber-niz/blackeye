@@ -1,6 +1,6 @@
 #!/bin/bash
 # Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
-# Upgraded by: @nizam0906 (https://github.com/nizam0906/blackeye)
+# Upgraded by: @cyber-niz (https://github.com/cyber-niz/blackeye)
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -216,7 +216,7 @@ printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and ar
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by BlackEye.  ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::     BLACKEYE v1.6! By @nizam0906 & @thelinuxchoice     ::\e[0m\n"
+printf "     \e[101m\e[1;77m::     BLACKEYE v1.6! By @cyber-niz & @thelinuxchoice     ::\e[0m\n"
 printf "\n"
 }
 
